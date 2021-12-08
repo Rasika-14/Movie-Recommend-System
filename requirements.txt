@@ -1,0 +1,5 @@
+Django
+django_heroku
+pandas
+requests
+streamlit
